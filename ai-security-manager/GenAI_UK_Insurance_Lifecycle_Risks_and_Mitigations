@@ -1,0 +1,129 @@
+# Generative AI Risks and Mitigations Library
+
+## Overview
+This repository contains a structured risk and mitigation library for the onboarding, development, deployment, operation, monitoring, and retirement of Generative AI solutions.
+
+The workbook was created to provide a practical, lifecycle-based view of the key risks associated with GenAI adoption, together with corresponding mitigations, ownership considerations, and monitoring expectations. It is designed for use in regulated enterprise environments, with particular relevance to UK insurance and Lloyd’s market organisations.
+
+## Purpose
+The purpose of this workbook is to help organisations identify, organise, and manage Generative AI risks in a way that is operationally practical and governance-ready.
+
+It is intended to support:
+- AI onboarding and approval discussions
+- control design and implementation planning
+- security, risk, and compliance reviews
+- third-party and outsourcing assessments
+- operational resilience and incident preparedness
+- board, committee, and audit conversations
+- interview or portfolio demonstrations of AI governance capability
+
+## Scope
+The workbook covers risks and mitigations across the full Generative AI lifecycle, including:
+- strategy and intake
+- governance and regulatory design
+- data and knowledge preparation
+- solution design and development
+- testing and validation
+- deployment and release
+- run, monitoring, and support
+- third-party, resilience, and exit management
+- incident response and recovery
+- retirement and decommissioning
+
+## Regulatory and Market Context
+This workbook has been structured with a strong UK regulatory and insurance-market perspective in mind. It reflects key themes relevant to:
+- Financial Conduct Authority (FCA) expectations on governance, accountability, conduct, and customer outcomes
+- Prudential Regulation Authority (PRA) expectations on outsourcing, third-party risk, and operational resilience
+- Information Commissioner’s Office (ICO) guidance on AI, data protection, fairness, transparency, and DPIAs
+- National Cyber Security Centre (NCSC) guidance on AI security, secure design, secure development, and operational controls
+- Lloyd’s and London market considerations relating to governance maturity, human oversight, cyber risk, third-party dependency, and control discipline
+
+## Workbook Structure
+The workbook is organised to make it easy to review risks both strategically and operationally.
+
+Typical sections include:
+- an overview of the workbook purpose and design
+- lifecycle stage definitions
+- a master risk register
+- individual tabs aligned to lifecycle stages
+- priority or management views
+- source references
+- notes on interpretation and practical use
+
+Each risk entry is designed to help the reader understand:
+- where in the lifecycle the risk arises
+- what the risk is
+- what causes it
+- why it matters
+- what controls or mitigations should be considered
+- who is likely to own it
+- how it can be monitored or evidenced
+
+## Intended Audience
+This workbook is intended for professionals involved in the governance, design, control, and operation of Generative AI solutions, including:
+- AI product owners
+- AI governance leads
+- information security teams
+- risk and compliance teams
+- privacy and data protection teams
+- architecture and engineering teams
+- procurement and third-party risk teams
+- operational resilience teams
+- audit and assurance functions
+- senior management and oversight committees
+
+## How to Use This Workbook
+This workbook can be used in several ways depending on the need.
+
+For governance and approval:
+Review the lifecycle stages and identify which risks apply to the proposed use case before onboarding or funding approval.
+
+For delivery and implementation:
+Use the relevant lifecycle tab to translate risks into specific controls, ownership actions, and design decisions.
+
+For risk and compliance review:
+Use the master register to test whether key regulatory, security, conduct, privacy, and resilience issues have been considered.
+
+For third-party assessments:
+Use the third-party, resilience, and exit sections to challenge supplier arrangements, concentration risk, contractual protections, and contingency planning.
+
+For portfolio or interview use:
+Use the workbook as evidence of structured thinking on AI governance, control design, and enterprise risk management in regulated environments.
+
+## Key Themes Covered
+The workbook places particular emphasis on:
+- governance and accountability
+- human oversight
+- conduct and customer harm
+- privacy and lawful data use
+- explainability and transparency
+- prompt injection and model misuse
+- secure development and deployment
+- testing, validation, and drift monitoring
+- outsourcing and third-party dependency
+- operational resilience and fallback planning
+- incident response and recovery
+- retirement and decommissioning controls
+
+## Why This Matters
+Generative AI can create significant business value, but it also introduces new forms of operational, conduct, security, privacy, and resilience risk.
+
+A structured lifecycle approach helps organisations avoid treating GenAI as only a technology issue. Instead, it supports a more mature view in which GenAI is governed as a business capability with clear controls, defined ownership, and defensible oversight.
+
+## Confidentiality Note
+This workbook is intended for professional, educational, and portfolio use. Any examples, structures, or control themes included in this repository should be treated as illustrative unless formally adopted within an organisation’s internal governance framework.
+
+Where this material is used in a portfolio context, it should be understood as a demonstration of approach, control thinking, and governance design rather than a disclosure of proprietary internal policy.
+
+## Repository Use
+If this file sits within a wider GitHub portfolio, it should be read as the guide to the accompanying Generative AI risk workbook. Reviewers are encouraged to start with this README, then open the workbook to explore the lifecycle stages, risk register, and mitigation structure in more detail.
+
+## Author’s Intent
+This material is designed to demonstrate practical capability in:
+- AI governance
+- enterprise risk structuring
+- control design
+- regulatory interpretation
+- operational resilience thinking
+- security and third-party oversight
+- translating complex AI risks into usable management artefacts
